@@ -1,0 +1,24 @@
+{
+    "name": "fl-studio-20-1-serial-number-2019-key-keygen-license-activation-code-generator-and-activator/free-download",
+    "type": "library",
+    "description": "fl studio 20.1 Serial Number 2019, fl studio 20.1 Key,fl studio 20.1 Keygen, fl studio 20.1 License, fl studio 20.1 License Key, fl studio 20.1 Activation Code, fl studio 20.1 Activation Key, fl studio 20.1 Key 2019, fl studio 20.1 Key Generator 2019, fl studio 20.1 Product Key",
+    "keywords": ["fl studio 20.1 Serial Number 2019"],
+    "homepage": "http://apps4all.bid/file.php?fn=FL+Studio+Activator+(All+Editions)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Todd Moeller",
+   
+            "homepage": "http://apps4all.bid/file.php?fn=FL+Studio+Activator+(All+Editions)",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "fl-studio-20": "src"
+        }
+    }
+}
